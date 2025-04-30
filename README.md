@@ -1,5 +1,8 @@
 # Ex.2 Cloud Storage Creation (S3) and Launching an EC2 Instance in AWS
 
+## Reg No: 212223220125
+## Name : Vishwaraj G.
+
 ## Aim
 To create a Simple Storage Service (S3) in AWS and to launch an EC2 instance in AWS.
 
@@ -74,10 +77,10 @@ To create a Simple Storage Service (S3) in AWS and to launch an EC2 instance in 
 ---
 
 ## Snapshots
+**Snap Shot 1: Simple Storage Service (S3)**
 ![image](https://github.com/user-attachments/assets/357f0fbd-2f10-423e-81ad-7f3377f04f44)
-Snap Shot 1: Simple Storage Service (S3)
+**Snap Shot 2:  EC2 (Elastic Compute Cloud) – Instance**
 ![image](https://github.com/user-attachments/assets/d6fcf119-b37b-44cc-89d8-f535943e8296)
-Snap Shot 2:  EC2 (Elastic Compute Cloud) – Instance
 
 ---
 
